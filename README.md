@@ -1,0 +1,3 @@
+# latika
+This is a system for controlling and managing the products of the "La Tika" establishment. In this system, customers can place orders for delivery or simply browse the menu, while employees can manage orders, registered customers, and registered employees.
+This is a system I created for my Technical Developer course's final project. I developed both a computer and a mobile version to cater to user clients. They can use the system to browse the products on the menu, request delivery, and track their orders in real-time. On the other hand, employee users can have control over employees with login access (with the manager having full access), manage registered customers (without violating their privacy), and oversee the orders placed.
