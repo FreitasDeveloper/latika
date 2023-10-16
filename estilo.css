@@ -1,0 +1,179 @@
+:root {
+    --cor1: #1A1E26;
+    --cor2: #D97C2B;
+    --cor3: #E98A35;
+    --cor4: #BF6849;
+    --cor5: #E4E6F0;
+    --cor6: #FFFFFF;
+
+    --text1: #5a5a5a;
+    --text2: #2b2b2b;
+    --text3: #fff;
+
+
+}
+
+
+.logo-img {
+    position: relative;
+    width: 50px;
+    top: 7px;
+    left: 10px;
+}
+
+.cardapio-img {
+    padding-top: 10px;
+    width: 250px;
+    border-radius: 50%;
+}
+
+.cardapio-item {
+    line-height: 30px;
+    padding-top: 10%;
+}
+
+.cardapio-item-s {
+    line-height: 30px;
+    padding-top: 0px;
+    border: 1px solid white;
+    border-top: none;
+
+}
+
+.cardapio-codigo {
+    display: block;
+    color: var(--text1);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 22px;
+
+}
+
+.cardapio-descr {
+    display: block;
+    color: var(--text3);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 28px;
+}
+
+.cardapio-preco {
+    display: block;
+    color: var(--text2);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 24px;
+}
+
+
+
+.cardapio-codigo-s {
+    display: block;
+    color: var(--text1);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 22px;
+    text-align: center;
+
+}
+
+.cardapio-descr-s {
+    display: block;
+    color: var(--text3);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 28px;
+    text-align: center;
+}
+
+.cardapio-preco-s {
+    display: block;
+    color: var(--text2);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 24px;
+    text-align: center;
+}
+
+.pedido-preco {
+    display: block;
+    color: #D97C2B;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 24px;
+}
+
+.background-color-1 {
+    background-color: var(--cor1);
+}
+
+.background-color-2 {
+    background-color: var(--cor3);
+}
+
+.background-color-3 {
+    background-color: var(--cor3);
+}
+
+.background-color-4 {
+    background-color: var(--cor4);
+}
+
+.background-color-5 {
+    background-color: var(--cor5);
+}
+
+.background-color-6 {
+    background-color: var(--cor6);
+}
+
+.containerLK {
+    height: auto;
+    width: auto;
+    justify-content: center;
+
+
+}
+
+.containerLK p {
+    font-size: 30px;
+}
+
+.tabela {
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 50px;
+    background-color: #1A1E26;
+
+}
+
+.card-style {
+    padding-top: 1rem;
+    width: 20rem;
+    height: 3rem;
+}
+
+.back {
+    background-color: #1A1E26;
+}
+
+.dark-text {
+    text-decoration: black;
+}
+
+#nav-mobile li p {
+    margin: 0px;
+}
+
+.NomeLogado {
+    color: #D97C2B;
+}
+
+.imgA {
+    margin-left: 90px;
+    width: 55%;
+    border-radius: 50%;
+
+
+}
+
+.imgB {
+    margin-bottom: 30px;
+    margin-left: 200px;
+    width: 50%;
+    border-radius: 50%;
+
+}
